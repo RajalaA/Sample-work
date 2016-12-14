@@ -1,0 +1,71 @@
+\\profile.ad.puv.fi\roaming_data\e0901095\my documents\visual studio 2010\Projects\Kodekki\Kodekki\bin\Debug\Kodekki.exe
+\\profile.ad.puv.fi\roaming_data\e0901095\my documents\visual studio 2010\Projects\Kodekki\Kodekki\bin\Debug\Kodekki.pdb
+\\profile.ad.puv.fi\roaming_data\e0901095\my documents\visual studio 2010\Projects\Kodekki\Kodekki\obj\x86\Debug\Kodekki.Form1.resources
+\\profile.ad.puv.fi\roaming_data\e0901095\my documents\visual studio 2010\Projects\Kodekki\Kodekki\obj\x86\Debug\Kodekki.Form2.resources
+\\profile.ad.puv.fi\roaming_data\e0901095\my documents\visual studio 2010\Projects\Kodekki\Kodekki\obj\x86\Debug\Kodekki.Form3.resources
+\\profile.ad.puv.fi\roaming_data\e0901095\my documents\visual studio 2010\Projects\Kodekki\Kodekki\obj\x86\Debug\Kodekki.Properties.Resources.resources
+\\profile.ad.puv.fi\roaming_data\e0901095\my documents\visual studio 2010\Projects\Kodekki\Kodekki\obj\x86\Debug\Kodekki.csproj.GenerateResource.Cache
+\\profile.ad.puv.fi\roaming_data\e0901095\my documents\visual studio 2010\Projects\Kodekki\Kodekki\obj\x86\Debug\Kodekki.exe
+\\profile.ad.puv.fi\roaming_data\e0901095\my documents\visual studio 2010\Projects\Kodekki\Kodekki\obj\x86\Debug\Kodekki.pdb
+U:\Ohjelmointi2\Kodekki\obj\x86\Debug\Kodekki.exe
+U:\Ohjelmointi2\Kodekki\obj\x86\Debug\Kodekki.pdb
+U:\Ohjelmointi2\Kodekki\bin\Debug\Kodekki.exe
+U:\Ohjelmointi2\Kodekki\bin\Debug\Kodekki.pdb
+U:\Ohjelmointi2\Kodekki\obj\x86\Debug\Kodekki.Form1.resources
+U:\Ohjelmointi2\Kodekki\obj\x86\Debug\Kodekki.Form2.resources
+U:\Ohjelmointi2\Kodekki\obj\x86\Debug\Kodekki.Form3.resources
+U:\Ohjelmointi2\Kodekki\obj\x86\Debug\Kodekki.Properties.Resources.resources
+U:\Ohjelmointi2\Kodekki\obj\x86\Debug\Kodekki.csproj.GenerateResource.Cache
+U:\Ohjelmointi2\Kodekki\obj\x86\Debug\Kodekki.csprojResolveAssemblyReference.cache
+U:\Kodekki\obj\x86\Debug\Kodekki.exe
+U:\Kodekki\obj\x86\Debug\Kodekki.pdb
+U:\Kodekki\bin\Debug\Kodekki.exe
+U:\Kodekki\bin\Debug\Kodekki.pdb
+U:\Kodekki\obj\x86\Debug\Kodekki.csprojResolveAssemblyReference.cache
+U:\Kodekki\obj\x86\Debug\Kodekki.Form1.resources
+U:\Kodekki\obj\x86\Debug\Kodekki.Form2.resources
+U:\Kodekki\obj\x86\Debug\Kodekki.Form3.resources
+U:\Kodekki\obj\x86\Debug\Kodekki.Properties.Resources.resources
+U:\Kodekki\obj\x86\Debug\Kodekki.csproj.GenerateResource.Cache
+U:\Ohjelmointi2\KodekkiA\obj\x86\Debug\Kodekki.exe
+U:\Ohjelmointi2\KodekkiA\obj\x86\Debug\Kodekki.pdb
+U:\Ohjelmointi2\KodekkiA\obj\x86\Debug\Kodekki.csprojResolveAssemblyReference.cache
+U:\Ohjelmointi2\KodekkiA\obj\x86\Debug\Kodekki.Form1.resources
+U:\Ohjelmointi2\KodekkiA\obj\x86\Debug\Kodekki.Form2.resources
+U:\Ohjelmointi2\KodekkiA\obj\x86\Debug\Kodekki.Form3.resources
+U:\Ohjelmointi2\KodekkiA\obj\x86\Debug\Kodekki.Properties.Resources.resources
+U:\Ohjelmointi2\KodekkiA\obj\x86\Debug\Kodekki.csproj.GenerateResource.Cache
+U:\Ohjelmointi2\KodekkiA\bin\Debug\Kodekki.exe
+U:\Ohjelmointi2\KodekkiA\bin\Debug\Kodekki.pdb
+U:\KodekkiJ\obj\x86\Debug\Kodekki.exe
+U:\KodekkiJ\obj\x86\Debug\Kodekki.pdb
+U:\KodekkiJ\bin\Debug\Kodekki.exe
+U:\KodekkiJ\bin\Debug\Kodekki.pdb
+U:\KodekkiJ\obj\x86\Debug\Kodekki.csprojResolveAssemblyReference.cache
+U:\KodekkiJ\obj\x86\Debug\Kodekki.Form1.resources
+U:\KodekkiJ\obj\x86\Debug\Kodekki.Form2.resources
+U:\KodekkiJ\obj\x86\Debug\Kodekki.Form3.resources
+U:\KodekkiJ\obj\x86\Debug\Kodekki.Properties.Resources.resources
+U:\KodekkiJ\obj\x86\Debug\Kodekki.csproj.GenerateResource.Cache
+U:\KodekkiAJ\obj\x86\Debug\Kodekki.exe
+U:\KodekkiAJ\obj\x86\Debug\Kodekki.pdb
+U:\KodekkiAJ\bin\Debug\Kodekki.exe
+U:\KodekkiAJ\bin\Debug\Kodekki.pdb
+U:\KodekkiAJ\obj\x86\Debug\Kodekki.csprojResolveAssemblyReference.cache
+U:\KodekkiAJ\obj\x86\Debug\Kodekki.Form1.resources
+U:\KodekkiAJ\obj\x86\Debug\Kodekki.Form2.resources
+U:\KodekkiAJ\obj\x86\Debug\Kodekki.Form3.resources
+U:\KodekkiAJ\obj\x86\Debug\Kodekki.Properties.Resources.resources
+U:\KodekkiAJ\obj\x86\Debug\Kodekki.csproj.GenerateResource.Cache
+C:\Users\ROBOCOP2500\Desktop\KodekkiAJ\obj\x86\Debug\Kodekki.exe
+C:\Users\ROBOCOP2500\Desktop\KodekkiAJ\obj\x86\Debug\Kodekki.pdb
+F:\Ulkoinen kiintolevy\Työpöydältä\koulu\KodekkiAJ\obj\x86\Debug\Kodekki.exe
+F:\Ulkoinen kiintolevy\Työpöydältä\koulu\KodekkiAJ\obj\x86\Debug\Kodekki.pdb
+F:\Ulkoinen kiintolevy\Työpöydältä\koulu\KodekkiAJ\bin\Debug\Kodekki.exe
+F:\Ulkoinen kiintolevy\Työpöydältä\koulu\KodekkiAJ\bin\Debug\Kodekki.pdb
+F:\Ulkoinen kiintolevy\Työpöydältä\koulu\KodekkiAJ\obj\x86\Debug\Kodekki.csprojResolveAssemblyReference.cache
+F:\Ulkoinen kiintolevy\Työpöydältä\koulu\KodekkiAJ\obj\x86\Debug\Kodekki.Form1.resources
+F:\Ulkoinen kiintolevy\Työpöydältä\koulu\KodekkiAJ\obj\x86\Debug\Kodekki.Form2.resources
+F:\Ulkoinen kiintolevy\Työpöydältä\koulu\KodekkiAJ\obj\x86\Debug\Kodekki.Form3.resources
+F:\Ulkoinen kiintolevy\Työpöydältä\koulu\KodekkiAJ\obj\x86\Debug\Kodekki.Properties.Resources.resources
+F:\Ulkoinen kiintolevy\Työpöydältä\koulu\KodekkiAJ\obj\x86\Debug\Kodekki.csproj.GenerateResource.Cache
